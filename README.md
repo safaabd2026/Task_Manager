@@ -111,7 +111,7 @@ This project follows the MVC Architecture:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/safaabd2026/task-manager.git
+git clone https://github.com/safaabd2026/Task_Manager.git
 ```
 
 ### Navigate to project directory
